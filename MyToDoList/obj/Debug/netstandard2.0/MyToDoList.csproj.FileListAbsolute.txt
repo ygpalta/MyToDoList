@@ -1,0 +1,13 @@
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\bin\Debug\netstandard2.0\MyToDoList.deps.json
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\bin\Debug\netstandard2.0\MyToDoList.dll
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\MyToDoList.csprojAssemblyReference.cache
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\MyToDoList.AssemblyInfoInputs.cache
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\MyToDoList.AssemblyInfo.cs
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\bin\Debug\netstandard2.0\ref\MyToDoList.dll
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\bin\Debug\netstandard2.0\MyToDoList.pdb
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\MyToDoList.csproj.CoreCompileInputs.cache
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\MyToDoList.dll
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\ref\MyToDoList.dll
+C:\Users\YogeshGopalPalta\source\repos\MyToDoList\MyToDoList\obj\Debug\netstandard2.0\MyToDoList.pdb
